@@ -1,0 +1,32 @@
+
+
+
+
+
+
+
+
+Container Aldıgı Özellikler (arka rengi ayarlamak için kullanıyoruz)
+    alignment: Hizalama
+    color: Renk
+    width: Genişlik
+    height: Yükseklik
+    child: İçerisindeki Nesne
+
+Text Adlıgı Değerler (Yazı yazdırmak için kullanıyoruz)
+    "Metin",
+    style:TextStyle(
+        color: Yazı Rengi
+        fontSize: Yazı Boyutu
+        )
+
+Column Aldıgı Değerler (alt alta nesneler oluşması için kullanıyoruz)
+    children:[
+        İçerisinde yer alacak araçlar
+    ]
+
+SizedBox aldıgı Değerler (nesneler arası boşluk eklemek için kullanıyoruz.)
+    width: Genişlik
+    height: Yükseklik
+
+    
